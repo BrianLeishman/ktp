@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "library")(type "Legacy")(uri "${KIPRJMOD}/library.lib")(options "")(descr ""))
+  (lib (name "jrgbwww24")(type "Legacy")(uri "${KIPRJMOD}/pittimer.lib")(options "")(descr ""))
+  (lib (name "pittimer-rescue")(type "KiCad")(uri "${KIPRJMOD}/pittimer-rescue.kicad_sym")(options "")(descr ""))
+)

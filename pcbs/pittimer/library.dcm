@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IPA040N06N
+D 180A Id, 100V Vds, OptiMOS-T2 N-Channel Power MOSFET, 2.5mOhm Ron, Qg (typ) 156nC, TO-263-6
+K OptiMOS-T2 Power MOSFET N-MOS
+F https://www.infineon.com/dgdl/Infineon-IPB180N10S4_02-DS-v01_00-en.pdf?fileId=db3a30433d1d0bbe013d2129cf8a2f88
+$ENDCMP
+#
+$CMP Screw_Terminal_01x08
+D Generic screw terminal, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)
+K screw terminal
+F ~
+$ENDCMP
+#
+#End Doc Library
